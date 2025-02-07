@@ -1,0 +1,9 @@
+{
+  "parent": "beastly_beacons:custom/bigbeaconmodel",
+  "textures": {
+    "all": "beastly_beacons:block/benevolentbeacon",
+    "particle": "beastly_beacons:block/crying_obsidian",
+    "2": "beastly_beacons:block/benevolentbeacon"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "beastly_beacons:block/evilnetherite",
+    "particle": "beastly_beacons:block/evilnetherite"
+  },
+  "render_type": "solid"
+}

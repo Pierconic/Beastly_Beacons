@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "beastly_beacons:blocks/activated_iron",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:iron_block"
+        }
+      ]
+    }
+  ]
+}

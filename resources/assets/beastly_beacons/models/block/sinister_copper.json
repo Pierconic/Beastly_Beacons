@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "beastly_beacons:block/evilcopper",
+    "particle": "beastly_beacons:block/evilcopper"
+  },
+  "render_type": "solid"
+}

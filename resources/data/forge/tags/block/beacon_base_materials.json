@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "beastly_beacons:activated_copper",
+    "beastly_beacons:activated_iron",
+    "beastly_beacons:activated_gold",
+    "beastly_beacons:activated_emerald",
+    "beastly_beacons:activated_diamond",
+    "beastly_beacons:activated_lapis",
+    "beastly_beacons:activated_netherite",
+    "minecraft:iron_block",
+    "minecraft:copper_block",
+    "minecraft:gold_block",
+    "minecraft:lapis_block",
+    "minecraft:diamond_block",
+    "minecraft:emerald_block",
+    "minecraft:crying_obsidian",
+    "minecraft:netherite_block",
+    "beastly_beacons:sinister_copper",
+    "beastly_beacons:sinister_iron",
+    "beastly_beacons:sinister_gold",
+    "beastly_beacons:sinister_emerald",
+    "beastly_beacons:sinister_diamond",
+    "beastly_beacons:sinister_lapis",
+    "beastly_beacons:sinister_netherite"
+  ]
+}

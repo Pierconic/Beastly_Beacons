@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "beastly_beacons:evil_medium_forcefield",
+    "beastly_beacons:evil_strong_forcefield",
+    "beastly_beacons:evil_ultimate_forcefield",
+    "beastly_beacons:evil_weak_forcefield"
+  ]
+}

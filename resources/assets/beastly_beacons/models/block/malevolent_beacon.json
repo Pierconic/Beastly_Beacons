@@ -1,0 +1,9 @@
+{
+  "parent": "beastly_beacons:custom/evilbeaconmodel",
+  "textures": {
+    "all": "beastly_beacons:block/evilbeacon",
+    "particle": "beastly_beacons:block/crying_obsidian",
+    "4": "beastly_beacons:block/evilbeacon"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "beastly_beacons:custom/deactivatedbeaconmodel",
+  "textures": {
+    "all": "beastly_beacons:block/deactivatedbeacontexture",
+    "particle": "beastly_beacons:block/crying_obsidian",
+    "3": "beastly_beacons:block/deactivatedbeacontexture"
+  },
+  "render_type": "cutout_mipped"
+}

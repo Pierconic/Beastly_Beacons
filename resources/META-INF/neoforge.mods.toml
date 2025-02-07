@@ -1,0 +1,45 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="Academic Free License v3.0"
+
+[[mods]]
+modId="beastly_beacons"
+version="1.0.0"
+displayName="Beastly Beacons"
+displayURL="https://prcrichards.wixsite.com/portfolio"
+logoFile="logo.png"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+authors="Mindthemoods"
+description="Better beacons and stuff"
+
+# Start of user code block mod configuration
+# End of user code block mod configuration
+
+[[dependencies.beastly_beacons]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.65,)"
+ordering="AFTER"
+side="BOTH"
+
+[[dependencies.beastly_beacons]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="AFTER"
+side="BOTH"
+
+
+[[dependencies.beastly_beacons]]
+modId="geckolib"
+type="optional"
+versionRange="[0,)"
+ordering="NONE"
+side="BOTH"
+
+
+[[mixins]]
+    config="mixins.beastly_beacons.json"
+
+# Start of user code block dependencies configuration
+# End of user code block dependencies configuration

@@ -1,0 +1,230 @@
+{
+  "friendly.pulse.tier1": {
+    "subtitle": "subtitles.friendly.pulse.tier1",
+    "sounds": [
+      {
+        "name": "beastly_beacons:friendlypulsetier1",
+        "stream": false
+      }
+    ]
+  },
+  "friendly.pulse.tier2": {
+    "subtitle": "subtitles.friendly.pulse.tier2",
+    "sounds": [
+      {
+        "name": "beastly_beacons:friendlypulsetier2",
+        "stream": false
+      }
+    ]
+  },
+  "friendly.pulse.tier.3": {
+    "subtitle": "subtitles.friendly.pulse.tier.3",
+    "sounds": [
+      {
+        "name": "beastly_beacons:friendlypulsetier3",
+        "stream": false
+      }
+    ]
+  },
+  "evil.pulse.tier1": {
+    "subtitle": "subtitles.evil.pulse.tier1",
+    "sounds": [
+      {
+        "name": "beastly_beacons:evilpulsetier1",
+        "stream": false
+      }
+    ]
+  },
+  "evil.pulse.tier2": {
+    "subtitle": "subtitles.evil.pulse.tier2",
+    "sounds": [
+      {
+        "name": "beastly_beacons:evilpulsetier2",
+        "stream": false
+      }
+    ]
+  },
+  "evil.pulse.tier3": {
+    "subtitle": "subtitles.evil.pulse.tier3",
+    "sounds": [
+      {
+        "name": "beastly_beacons:evilpulsetier3",
+        "stream": false
+      }
+    ]
+  },
+  "friendly.hum": {
+    "subtitle": "subtitles.friendly.hum",
+    "sounds": [
+      {
+        "name": "beastly_beacons:friendlybeaconhum",
+        "stream": false
+      }
+    ]
+  },
+  "friendly.hum2": {
+    "subtitle": "subtitles.friendly.hum2",
+    "sounds": [
+      {
+        "name": "beastly_beacons:friendlybeaconhumomega",
+        "stream": false
+      }
+    ]
+  },
+  "evil.hum": {
+    "subtitle": "subtitles.evil.hum",
+    "sounds": [
+      {
+        "name": "beastly_beacons:evilbeaconhum",
+        "stream": false
+      }
+    ]
+  },
+  "evil.hum2": {
+    "subtitle": "subtitles.evil.hum2",
+    "sounds": [
+      {
+        "name": "beastly_beacons:evilbeaconhumomega",
+        "stream": false
+      }
+    ]
+  },
+  "beacon.deactivate": {
+    "subtitle": "subtitles.beacon.deactivate",
+    "sounds": [
+      {
+        "name": "beastly_beacons:beacondeactivate",
+        "stream": false
+      }
+    ]
+  },
+  "beacon.activate": {
+    "subtitle": "subtitles.beacon.activate",
+    "sounds": [
+      {
+        "name": "beastly_beacons:beaconactivate",
+        "stream": false
+      }
+    ]
+  },
+  "sentinel.spawn": {
+    "subtitle": "subtitles.sentinel.spawn",
+    "sounds": [
+      {
+        "name": "beastly_beacons:sentinelspawn2",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:sentinelspawn1",
+        "stream": false
+      }
+    ]
+  },
+  "sentinel.death": {
+    "subtitle": "subtitles.sentinel.death",
+    "sounds": [
+      {
+        "name": "beastly_beacons:sentineldeath3",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:sentineldeath2",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:sentineldeath1",
+        "stream": false
+      }
+    ]
+  },
+  "sentinel.ambient": {
+    "subtitle": "subtitles.sentinel.ambient",
+    "sounds": [
+      {
+        "name": "beastly_beacons:sentinelambient3",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:sentinelambient2",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:sentinelambient1",
+        "stream": false
+      }
+    ]
+  },
+  "ward.spawn": {
+    "subtitle": "subtitles.ward.spawn",
+    "sounds": [
+      {
+        "name": "beastly_beacons:wardspawn2",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:wardspawn1",
+        "stream": false
+      }
+    ]
+  },
+  "ward.death": {
+    "subtitle": "subtitles.ward.death",
+    "sounds": [
+      {
+        "name": "beastly_beacons:warddeath3",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:warddeath2",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:warddeath1",
+        "stream": false
+      }
+    ]
+  },
+  "ward.ambient": {
+    "subtitle": "subtitles.ward.ambient",
+    "sounds": [
+      {
+        "name": "beastly_beacons:wardambient3",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:wardambient2",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:wardambient1",
+        "stream": false
+      }
+    ]
+  },
+  "ward.attack": {
+    "subtitle": "subtitles.ward.attack",
+    "sounds": [
+      {
+        "name": "beastly_beacons:wardattack3",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:wardattack2",
+        "stream": false
+      },
+      {
+        "name": "beastly_beacons:wardattack1",
+        "stream": false
+      }
+    ]
+  },
+  "intruder.alert": {
+    "subtitle": "subtitles.intruder.alert",
+    "sounds": [
+      {
+        "name": "beastly_beacons:intruderdetected",
+        "stream": false
+      }
+    ]
+  }
+}

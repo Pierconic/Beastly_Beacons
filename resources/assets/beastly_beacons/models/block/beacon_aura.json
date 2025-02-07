@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "beastly_beacons:block/beacon_aura",
+    "particle": "beastly_beacons:block/beacon_aura"
+  },
+  "render_type": "cutout"
+}
