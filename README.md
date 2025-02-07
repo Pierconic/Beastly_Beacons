@@ -1,1 +1,1 @@
-The source code and resources for Beastly Beacons, compiled in MCreator, for Neoforge 1.21.1. 
+The source code and resources for Beastly Beacons, compiled in MCreator, for Neoforge 1.21.1. Consists of the GUI logic, a custom block that replaces vanilla beacons on placement, and various new beacon effects, including summonable spirits. Also features a locking system with which beacons will only benefit players in their radius bearing a correctly named sigil; and apply hostile effects to players without.
